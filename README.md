@@ -1,7 +1,7 @@
-# Inery testnet faucet tasks
+# Inery testnetinin faucet (musluk) görevi
 
-This is the base branch for tasks related to the Inery faucet. For each task that requires revision using GitHub, we will create a new branch named with the number of that task, such as 'task4', 'task5', etc.
+Bu görev Inery musluğu görevleri ile ilintili temel bir daldır. GitHub kullanarak revizyon gerektiren her görev için, o görevin numarasıyla ilgili 'task4', 'task5' gibi yeni bir kısım oluşturacağız.
 
-## Getting Started
+## Başlayalım o zamanç
 
-To verify the quality of your code, you will need to clone the specific branch of the project and submit the required changes for that task. After making the necessary changes, you can create a pull request to submit your work for review. If the work is satisfactory, it will be approved. If there are any issues with the work, it may be labeled with specific comments indicating what needs to be improved or modified. It is important to carefully review and address any feedback provided in order to improve the quality of your work.
+Kodunuzun kalitesini doğrulamak için, projenin belirli dalını klonlamanız ve bu görev için gerekli değişiklikleri göndermeniz gerekir. Gerekli değişiklikleri yaptıktan sonra, çalışmanızı incelemeye göndermek için bir (pull request) incelenme isteği oluşturabilirsiniz. Çalışmanız yeterli görülürse onaylanacaktır. Çalışmayla ilgili herhangi bir sorun varsa, hangi kısmın iyileştirilmesi veya değiştirilmesi gerektiğini belirten özel yorumlarla etiketlenebilir. Çalışmanızın kalitesini artırmak için sağlanan tüm geri bildirimleri dikkatlice incelemek ve ele almak önemlidir.
